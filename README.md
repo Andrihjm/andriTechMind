@@ -12,10 +12,7 @@
 - 👨‍💻 By my Course [My Course Available At](https://www.qodr.id/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/haris-andri-irawan-77148630a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="[https://instagram.com/simplified_learner](https://www.instagram.com/skxbfbtyx/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-</p>
+<p align="left"> <a href="www.linkedin.com/in/haris-andri-irawan-77148630a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a> <a href="https://www.instagram.com/skxbfbtyx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
