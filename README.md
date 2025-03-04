@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andri</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
-<!-- - 🔭 I’m currently working on [Sicky](https://sicky.com.au/) -->
-
 - 👨‍💻 All of my projects are available at [https://github.com/andrihjm](https://github.com/andrihjm)
 
 - 💬 Ask me about **React.Js, Next.Js, Vue.Js, Node.js etc,...**
@@ -52,5 +50,8 @@
 </a>
 <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
 <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://res.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_32x1.svg" alt="express" width="40" height="40"/>
 </a>
  </p>
